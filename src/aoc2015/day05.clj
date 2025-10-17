@@ -4,6 +4,8 @@
 
 (def puzzle-input (slurp "resources/event_2015/aoc2015-d05-input.txt"))
 
+(defn- parse [input] (str/split-lines input))
+
 (defn- nice-part1?
   [s]
   (and (>= (count (re-seq #"[aeiou]" s)) 3) ; at least 3 vowels
@@ -15,11 +17,11 @@
   (and (re-find #"(..).*\1" s) ; two adjacent pairs
        (re-find #"(.).\1" s))) ; sandwich
 
-(defn part-1 [input] (count (filter nice-part1? (str/split-lines input))))
-(defn part-2 [input] (count (filter nice-part2? (str/split-lines input))))
+(defn part-1 [input] (count (filter nice-part1? input)))
+(defn part-2 [input] (count (filter nice-part2? input)))
 
 (comment
   ;; Solutions: 255 / 55
   (let [input puzzle-input]
-    (str "Solutions: " (part-1 input) " / " (part-2 input))))
+    (str "Solutions: " (part-1 (parse input)) " / " (part-2 (parse input)))))
 
