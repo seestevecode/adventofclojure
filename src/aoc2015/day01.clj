@@ -16,3 +16,4 @@
   ;; Solutions: 280 / 1797
   (let [input puzzle-input] ; change as required
     (str "Solutions: " (part-1 (parse input)) " / " (part-2 (parse input)))))
+
