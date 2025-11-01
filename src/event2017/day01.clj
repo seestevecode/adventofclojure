@@ -18,5 +18,5 @@
   [input]
   (let [p (parsed input)] (captcha-sum p (quot (count p) 2)))) ; halfway
 
-(aoc/solve puzzle-input part-1 part-2)
+(aoc/solve puzzle-input part-1 part-2) ; [1390 1232]
 

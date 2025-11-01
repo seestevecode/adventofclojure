@@ -15,5 +15,5 @@
 (defn part-1 [input] (reduce + (parsed input)))
 (defn part-2 [input] (first-dup (reductions + (cycle (parsed input)))))
 
-(aoc/solve puzzle-input part-1 part-2)
+(aoc/solve puzzle-input part-1 part-2) ; [508 549]
 
