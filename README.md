@@ -18,7 +18,7 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 
 | Day | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Total |
 | --: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | ----: |
-|   1 |      |      |      |      |      |      |      |      |      |      |       |
+|   1 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   2 |      |      |      |      |      |      |      |      |      |      |       |
 |   3 |      |      |      |      |      |      |      |      |      |      |       |
 |   4 |      |      |      |      |      |      |      |      |      |      |       |
@@ -43,4 +43,4 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 |  23 |      |      |      |      |      |      |      |      |      |      |       |
 |  24 |      |      |      |      |      |      |      |      |      |      |       |
 |  25 |      |      |      |      |      |      |      |      |      |      |       |
-| Tot |      |      |      |      |      |      |      |      |      |      |       |
+| Tot |  2   |      |      |      |      |      |      |      |      |      |     2 |
