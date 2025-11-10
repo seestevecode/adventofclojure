@@ -21,7 +21,7 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 |   1 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   2 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   3 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
-|   4 |      |      |      |      |      |      |      |      |      |      |       |
+|   4 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   5 |      |      |      |      |      |      |      |      |      |      |       |
 |   6 |      |      |      |      |      |      |      |      |      |      |       |
 |   7 |      |      |      |      |      |      |      |      |      |      |       |
@@ -43,4 +43,4 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 |  23 |      |      |      |      |      |      |      |      |      |      |       |
 |  24 |      |      |      |      |      |      |      |      |      |      |       |
 |  25 |      |      |      |      |      |      |      |      |      |      |       |
-| Tot |  6   |      |      |      |      |      |      |      |      |      |     6 |
+| Tot |  8   |      |      |      |      |      |      |      |      |      |     8 |
