@@ -1,0 +1,29 @@
+# Clojure / Babashka
+.clj-kondo/
+.lsp/
+.cpcache/
+.nrepl-port
+.bb-repl-history
+.babashka/
+target/
+classes/
+
+# Editor & REPL tools
+.conjure/
+.fennel-history
+.rebel-readline-history
+
+# Logs & temp
+*.log
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Advent of Code inputs
+resources
