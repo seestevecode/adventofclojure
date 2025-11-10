@@ -20,7 +20,7 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 | --: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | ----: |
 |   1 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   2 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
-|   3 |      |      |      |      |      |      |      |      |      |      |       |
+|   3 | \*\* |      |      |      |      |      |      |      |      |      |     2 |
 |   4 |      |      |      |      |      |      |      |      |      |      |       |
 |   5 |      |      |      |      |      |      |      |      |      |      |       |
 |   6 |      |      |      |      |      |      |      |      |      |      |       |
@@ -43,4 +43,4 @@ Solutions for [Advent of Code](https://adventofcode.com) puzzles, written in Clo
 |  23 |      |      |      |      |      |      |      |      |      |      |       |
 |  24 |      |      |      |      |      |      |      |      |      |      |       |
 |  25 |      |      |      |      |      |      |      |      |      |      |       |
-| Tot |  4   |      |      |      |      |      |      |      |      |      |     4 |
+| Tot |  6   |      |      |      |      |      |      |      |      |      |     6 |
